@@ -1,0 +1,2 @@
+# clean-aliexpress-urls
+When copying and pasting aliexpress urls, they are usually filled with a bunch of junk that means that someone on another computer can't use them when they are copy pasted. This is a userscipt plugin for things like tampermonkey or violentmonkey. I reccomend [Violentmonkey](https://violentmonkey.github.io/) as it is more privacy freindly and opensource. To use, click the violentmonkey extension, click the plus, and copy and paste in the user.js file. There is almost certainly a better way to do this, but i couldnt be fucked writing it.
